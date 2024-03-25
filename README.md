@@ -1,4 +1,4 @@
- ## Wage Prediction of FIFA Player
+ ## Wage Prediction for FIFA Players
  
  #### This project models the relationship between player attributes and wages 
  
