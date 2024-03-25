@@ -3,7 +3,6 @@
  #### Descrition: modeles the relationship between player attributes and wages using Multiple Linear Regression and Random Forest Model
  
  #### Models used:
-
  **linear regression**
  **random forest**
  **lasso regression**
