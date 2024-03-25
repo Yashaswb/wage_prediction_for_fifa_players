@@ -1,6 +1,6 @@
- ##Wage Prediction of FIFA Player
+ ## Wage Prediction of FIFA Player
  
- ####Descrition: modeles the relationship between player attributes and wages using Multiple Linear Regression and Random Forest Model
+ #### Descrition: modeles the relationship between player attributes and wages using Multiple Linear Regression and Random Forest Model
  
  #### Models used:
 
